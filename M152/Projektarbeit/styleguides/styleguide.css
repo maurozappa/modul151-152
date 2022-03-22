@@ -1,0 +1,80 @@
+h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 60px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 45px; font-weight: 450; line-height: 32px; margin: 0 0 20px; text-align: left; font-weight: bold}
+h3 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 450; line-height: 32px; margin: 0 0 0px; text-align: left; }
+h4 {text-align: center;margin: -35px 0 25px}
+p { color: #000000; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 0px; text-align: justify; text-justify: inter-word; }
+
+#titelbeispiel { 
+    color: #dc0000;
+    font-family: 'Raleway',sans-serif;
+    font-size: 62px; 
+    font-weight: 800; 
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: left; 
+    text-transform: uppercase;
+}
+
+#untertitelbeispiel { 
+    color: #dc0000;
+    font-family: 'Raleway',sans-serif;
+    font-size: 30px;
+    font-weight: 800; 
+    line-height: 36px; 
+    margin: 0 0 16px; 
+    text-align: left; 
+}
+
+#zwischentitel {
+    color: #dc0000; 
+    font-family:"Helvetica Neue",Arial,sans-serif; 
+    font-size: 16px; 
+    font-weight: 500; 
+    line-height: 28px; 
+    margin: 0 0 12px;
+    font-weight: bold;
+}
+
+#fliesstext {
+    color: #000000; 
+    font-family:"Helvetica Neue",Arial,sans-serif; 
+    font-size: 12px; 
+    font-weight: 500; 
+    line-height: 18px;  
+}
+
+#bildunterschriften {
+    text-align: left;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+}
+
+#navigationsmenu {
+    color: #706f6f; 
+    font-family:"Helvetica Neue",Arial,sans-serif; 
+    font-size: 16px; 
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.box {
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    clear: both;
+}
+
+.red {
+    background-color: #dc0000;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.grey {
+    background-color: #706f6f;
+}
